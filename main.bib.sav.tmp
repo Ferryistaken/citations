@@ -1,0 +1,378 @@
+
+@misc{ethic_oxford,
+    journal = {ethic noun - Definition, pictures, pronunciation and usage notes | Oxford Advanced American Dictionary at OxfordLearnersDictionaries.com},
+    title   = {Oxford Advanced American Dictionary},
+    url     = {https://www.oxfordlearnersdictionaries.com/us/definition/american_english/ethic},
+    year    = {2022}
+}
+
+@misc{johnson_cureton_2016,
+    author    = {Johnson, Robert and Cureton, Adam},
+    journal   = {Stanford Encyclopedia of Philosophy},
+    month     = {Jul},
+    publisher = {Stanford University},
+    title     = {Kant's Moral Philosophy},
+    url       = {https://plato.stanford.edu/entries/kant-moral/},
+    year      = {2016}
+}
+
+@article{lim_2017,
+    author  = {Lim, Gregory B.},
+    doi     = {10.1038/nrcardio.2017.172},
+    journal = {Nature Reviews Cardiology},
+    title   = {Warfarin: from rat poison to clinical use},
+    year    = {2017}
+}
+
+ @misc{nazi_experiments,
+    journal   = {United States Holocaust Memorial Museum},
+    publisher = {United States Holocaust Memorial Museum},
+    title     = {Nazi Medical Experiments},
+    url       = {https://encyclopedia.ushmm.org/content/en/article/nazi-medical-experiments},
+    year      = {2006}
+} 
+
+@misc{amazon_alexa,
+    author    = {Schneider-Clauss, Wilhelm and Hilgers, Heribert A.},
+    journal   = {Amazon},
+    note      = {Available at \url{https://developer.amazon.com/en-US/alexa}},
+    publisher = {Amazon Developer},
+    title     = {Amazon Alexa Voice AI | Alexa Developer Official Site},
+    url       = {https://developer.amazon.com/en-US/alexa}
+}
+
+@misc{apple_siri,
+    author    = {Apple Developer},
+    journal   = {Apple},
+    note      = {Available at \url{https://www.apple.com/siri/}},
+    publisher = {Apple Developer},
+    title     = {Siri},
+    url       = {https://www.apple.com/siri/}
+}
+
+@article{cnn_sainath_parada_2015,
+    author  = {Sainath, Tara N. and Parada, Carolina},
+    doi     = {10.21437/interspeech.2015-352},
+    journal = {Interspeech 2015},
+    title   = {Convolutional neural networks for small-footprint keyword spotting},
+    year    = {2015}
+}
+
+@article{coucke_chlieh_gisselbrecht_leroy_poumeyrol_lavril_2019,
+    author  = {Coucke, Alice and Chlieh, Mohammed and Gisselbrecht, Thibault and Leroy, David and Poumeyrol, Mathieu and Lavril, Thibaut},
+    doi     = {10.1109/icassp.2019.8683474},
+    journal = {ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+    note    = {Available at \url{https://arxiv.org/pdf/1811.07684.pdf}},
+    title   = {Efficient Keyword Spotting Using Dilated Convolutions and Gating},
+    year    = {2019}
+}
+
+@misc{doshi_2021,
+    author    = {Doshi, Ketan},
+    journal   = {Medium},
+    month     = {May},
+    publisher = {Towards Data Science},
+    title     = {Audio Deep Learning Made Simple: Why Mel Spectrograms perform better},
+    url       = {https://towardsdatascience.com/audio-deep-learning-made-simple-part-2-why-mel-spectrograms-perform-better-aad889a93505},
+    year      = {2021}
+}
+
+@article{lstm_Sun_2016,
+    author    = {Sun, Ming and Raju, Anirudh and Tucker, George and Panchapagesan, Sankaran and Fu, Gengshen and Mandal, Arindam and Matsoukas, Spyros and Strom, Nikko and Vitaladevuni, Shiv},
+    doi       = {10.1109/slt.2016.7846306},
+    isbn      = {9781509049035},
+    journal   = {2016 IEEE Spoken Language Technology Workshop (SLT)},
+    month     = {Dec},
+    publisher = {IEEE},
+    title     = {Max-pooling loss training of long short-term memory networks for small-footprint keyword spotting},
+    url       = {http://dx.doi.org/10.1109/SLT.2016.7846306},
+    year      = {2016}
+}
+
+
+@misc{mcmahan2017communicationefficient,
+    archiveprefix = {arXiv},
+    author        = {H. Brendan McMahan and Eider Moore and Daniel Ramage and Seth Hampson and Blaise Agüera y Arcas},
+    eprint        = {1602.05629},
+    primaryclass  = {cs.LG},
+    title         = {Communication-Efficient Learning of Deep Networks from Decentralized Data},
+    year          = {2017}
+}
+
+Available at \url{https://xzhu0027.gitbook.io/blog/ml-system/sys-ml-index/learning-from-non-iid-data}
+
+@misc{non-iid-gitbook,
+    journal = {Random Notes},
+    note    = {Available at \url{https://xzhu0027.gitbook.io/blog/ml-system/sys-ml-index/learning-from-non-iid-data}},
+    title   = {Learning From Non-IID data},
+    url     = {https://xzhu0027.gitbook.io/blog/ml-system/sys-ml-index/learning-from-non-iid-data}
+}
+
+@misc{oord2016wavenet,
+    archiveprefix = {arXiv},
+    author        = {Aaron van den Oord and Sander Dieleman and Heiga Zen and Karen Simonyan and Oriol Vinyals and Alex Graves and Nal Kalchbrenner and Andrew Senior and Koray Kavukcuoglu},
+    eprint        = {1609.03499},
+    primaryclass  = {cs.SD},
+    title         = {WaveNet: A Generative Model for Raw Audio},
+    year          = {2016}
+}
+
+@article{sonos_dataset,
+    author  = {Leroy, David and Coucke, Alice and Lavril, Thibaut and Gisselbrecht, Thibault and Dureau, Joseph},
+    doi     = {10.1109/icassp.2019.8683546},
+    journal = {ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+    title   = {Federated Learning for Keyword Spotting},
+    year    = {2019}
+}
+
+@Misc{sonos_github,
+  author    = {Sonos},
+  note      = {Available at \url{https://github.com/sonos/keyword-spotting-research-datasets}},
+  title     = {sonos/keyword-spotting-research-datasets},
+  journal   = {GitHub},
+  publisher = {Sonos, Inc.},
+  url       = {https://github.com/sonos/keyword-spotting-research-datasets},
+}
+
+@misc{ntc-image, title={Error analysis in temperature sensing with NTC and silicon-based PTC thermistors}, url={https://www.powerelectronictips.com/error-analysis-temperature-sensing-ntc-silicon-based-ptc-thermistors/}, journal={Power Electronic Tips}, author={Kalnoskas, Aimee}}
+
+@misc{beer_2020,
+    title     = {Top 1\% Of U.S. Households Hold 15 Times More Wealth Than Bottom 50\% Combined},
+    url       = {https://www.forbes.com/sites/tommybeer/2020/10/08/top-1-of-us-households-hold-15-times-more-wealth-than-bottom-50-combined/?sh=bf7703151795},
+    journal   = {Forbes},
+    publisher = {Forbes Magazine},
+    author    = {Beer, Tommy},
+    year      = {2020},
+    month     = {Dec}
+}
+
+@article{benvenuti_ferrari_mazzi_vincentelli_2008,
+    title   = {Composing hybrid systems},
+    doi     = {10.1109/cdc.2008.4739123},
+    journal = {2008 47th IEEE Conference on Decision and Control},
+    author  = {Benvenuti, Luca and Ferrari, Alberto and Mazzi, Emanuele and Vincentelli, Alberto Sangiovanni},
+    year    = {2008}
+}
+
+@misc{davies_sandstrom_shorrocks_wolff_2006,
+    title     = {The Global Distribution of Household Wealth},
+    url       = {https://www.wider.unu.edu/publication/global-distribution-household-wealth},
+    journal   = {UNU-WIDER},
+    publisher = {United Nations University},
+    author    = {Davies, James B and Sandström, Susanna and Shorrocks, Anthony F. and Wolff, Edward N.},
+    year      = {2006}
+}
+
+@Book{harari_sapiens:_2015,
+  author     = {Harari, Yuval N.},
+  publisher  = {Harper},
+  title      = {Sapiens: a brief history of humankind},
+  year       = {2015},
+  address    = {New York},
+  edition    = {First U.S. edition},
+  isbn       = {9780062316097 9780062316110},
+  abstract   = {"From a renowned historian comes a groundbreaking narrative of humanity's creation and evolution--a \#1 international bestseller--that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be "human." One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one--homo sapiens. What happened to the others? And what may happen to us? Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago with the appearance of modern cognition. From examining the role evolving humans have played in the global ecosystem to charting the rise of empires, Sapiens integrates history and science to reconsider accepted narratives, connect past developments with contemporary concerns, and examine specific events within the context of larger ideas .Dr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become? Featuring 27 photographs, 6 maps, and 25 illustrations/diagrams, this provocative and insightful work is sure to spark debate and is essential reading for aficionados of Jared Diamond, James Gleick, Matt Ridley, Robert Wright, and Sharon Moalem"--},
+  keywords   = {Civilization, History, Human beings, World history, Chronology, Historical, Technology and civilization, SCIENCE / Life Sciences / Evolution, SCIENCE / Life Sciences / General, SCIENCE / General},
+  language   = {eng},
+  shorttitle = {Sapiens},
+}
+
+@article{holtgimenez_shattuck_altieri_herren_gliessman:_2012,
+    title   = {We Already Grow Enough Food for 10 Billion People … and Still Cant End Hunger},
+    volume  = {36},
+    doi     = {10.1080/10440046.2012.695331},
+    number  = {6},
+    journal = {Journal of Sustainable Agriculture},
+    author  = {Holt-Giménez, Eric and Shattuck, Annie and Altieri, Miguel and Herren, Hans and Gliessman, Steve},
+    year    = {2012},
+    pages   = {595–598}
+}
+
+@article{jinachitra_1997,
+    title   = {Nietzsche's idea of an overman and life from his point of view},
+    journal = {Stanford Center for Computer Research in Music and Acoustics},
+    author  = {Jinachitra, Pamornpol "Tak"},
+    year    = {1997}
+}
+
+@article{jinachitra_1997_with_url,
+    title   = {Nietzsches idea of an overman and life from his point of view},
+    url     = {https://ccrma.stanford.edu/~pj97/Nietzsche.htm},
+    journal = {Stanford Center for Computer Research in Music and Acoustics},
+    author  = {Jinachitra, Pamornpol "Tak"},
+    year    = {1997}
+}
+
+@misc{lexico_dictionaries_english,
+    title     = {Definition of PURIST by Oxford Dictionary on Lexico.com also meaning of PURIST},
+    url       = {https://www.lexico.com/en/definition/purist},
+    journal   = {Lexico Dictionaries | English},
+    publisher = {Lexico Dictionaries}
+}
+
+@misc{mercy_corps:_2020,
+    title   = {The facts: What you need to know about global hunger},
+    url     = {https://www.mercycorps.org/blog/quick-facts-global-hunger},
+    journal = {Mercy Corps},
+    year    = {2020},
+    month   = {Aug}
+}
+
+@book{nietzsche_2008,
+    place     = {Oxford},
+    title     = {Thus spoke Zarathustra: a book for everyone and nobody},
+    publisher = {Oxford University Press},
+    author    = {Nietzsche, Friedrich},
+    year      = {2008}
+}
+
+@book{nietzsche_ansell-pearson_diethe_2017,
+    place     = {Cambridge, United Kingdom},
+    title     = {On the genealogy of morality and other writings},
+    publisher = {Cambridge University Press},
+    author    = {Nietzsche, Friedrich and Ansell-Pearson, Keith and Diethe, Carol},
+    year      = {2017}
+}
+
+@book{nietzsche_hollingdale_kaufmann_nietzsche_1968,
+    place     = {London},
+    title     = {The Will to power},
+    publisher = {Weidenfeld and Nicolson},
+    author    = {Nietzsche, Friedrich and Hollingdale, Reginald John and Kaufmann, Walter Arnold},
+    year      = {1968}
+}
+
+@book{plato_meno_2006,
+    place      = {Cambridge},
+    series     = {Cambridge Studies in the Dialogues of Plato},
+    title      = {Plato's Meno},
+    doi        = {10.1017/CBO9780511482632},
+    publisher  = {Cambridge University Press},
+    author     = {Plato},
+    editor     = {Scott, Dominic},
+    date       = {2006},
+    origdate   = {0385},
+    collection = {Cambridge Studies in the Dialogues of Plato}
+}
+
+@incollection{sep-innateness-history,
+    author       = {Samet, Jerry},
+    title        = {{The Historical Controversies Surrounding Innateness}},
+    booktitle    = {The {Stanford} Encyclopedia of Philosophy},
+    editor       = {Edward N. Zalta},
+    howpublished = {\url{https://plato.stanford.edu/archives/sum2019/entries/innateness-history/}},
+    year         = {2019},
+    edition      = {Summer 2019},
+    publisher    = {Metaphysics Research Lab, Stanford University}
+}
+
+@misc{cdc_epi_intro,
+    journal   = {Centers for Disease Control and Prevention},
+    month     = {May},
+    publisher = {Centers for Disease Control and Prevention},
+    title     = {Principles of Epidemiology},
+    url       = {https://www.cdc.gov/csels/dsepd/ss1978/lesson1/section1.html#:~:text=Epidemiology is the study (scientific,and the application of (since},
+    year      = {2012}
+}
+
+@misc{centers_for_disease_control_and_prevention,
+    author    = {cdc.gov},
+    journal   = {Centers for Disease Control and Prevention},
+    publisher = {Centers for Disease Control and Prevention},
+    title     = {cdc.gov},
+    url       = {https://www.cdc.gov/}
+}
+
+@misc{centers_for_disease_control_and_prevention_isolation,
+    journal   = {Centers for Disease Control and Prevention},
+    publisher = {Centers for Disease Control and Prevention},
+    title     = {Ending Isolation and Precautions for People with COVID-19: Interim Guidance},
+    url       = {https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html}
+}
+
+@misc{country_rt_estimates,
+    journal = {Country Rt Estimates},
+    title   = {R Naught Value Estimate for Germany},
+    publisher = {Epidemic Forecasting: Covid-19},
+    url     = {http://epidemicforecasting.org/country-rt-estimates?region=DE}
+}
+
+@misc{cssegisanddata,
+    author    = {CSSEGISandData},
+    journal   = {GitHub},
+    publisher = {John Hopkins University},
+    title     = {CSSE Covid Repository},
+    url       = {https://github.com/CSSEGISandData/COVID-19}
+}
+
+@misc{dygraphs_charting_library,
+    journal = {dygraphs charting library},
+    title   = {dygraphs},
+    url     = {https://dygraphs.com/}
+}
+
+@article{giordano_blanchini_bruno_colaneri_filippo_matteo_colaneri_2020,
+    author  = {Giordano, Giulia and Blanchini, Franco and Bruno, Raffaele and Colaneri, Patrizio and Filippo, Alessandro Di and Matteo, Angela Di and Colaneri, Marta},
+    doi     = {10.1038/s41591-020-0883-7},
+    journal = {Nature Medicine},
+    number  = {6},
+    pages   = {855–860},
+    title   = {Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy},
+    volume  = {26},
+    year    = {2020}
+}
+
+@misc{jupyterlab_changelog,
+    journal   = {JupyterLab Changelog - JupyterLab 3.1.9 documentation},
+    publisher = {Project Jupyter},
+    title     = {JupyterLab Changelog},
+    url       = {https://jupyterlab.readthedocs.io/en/stable/getting_started/changelog.html#v3-0-16}
+}
+
+@inreference{oed_epidemiology,
+    booktitle = {OED Online},
+    date      = {2021-08},
+    publisher = {Oxford University Press},
+    title     = {epidemiology, n.},
+    url       = {https://www.lexico.com/definition/epidemiology},
+    urldate   = {2021-23-08}
+}
+
+
+@misc{personal_docker,
+    author    = {Ferrari, Alessandro},
+    journal   = {Docker Hub},
+    publisher = {Docker, Inc.},
+    title     = {Data Science Docker},
+    url       = {https://hub.docker.com/r/u3ebmgske4udqutxkw8rkn/my-data-science-notebook}
+}
+
+@misc{ponce_2021,
+    author    = {Ponce, Marcelo},
+    journal   = {CRAN},
+    month     = {Mar},
+    publisher = {Comprehensive R Archive Network (CRAN)},
+    title     = {Package covid19.analytics},
+    url       = {https://cran.r-project.org/web/packages/covid19.analytics/index.html},
+    year      = {2021}
+}
+
+@misc{r_statistical_computing,
+    journal   = {R Statistical Computing},
+    publisher = {R Fundation},
+    title     = {The R Foundation},
+    url       = {https://www.r-project.org/foundation/}
+}
+
+@misc{rdocumentation,
+    journal   = {RDocumentation},
+    publisher = {R Project},
+    title     = {View: Invoke a Data Viewer},
+    url       = {https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/View}
+}
+
+@misc{the_covid_tracking_project,
+    author  = {The COVID Tracking Project},
+    journal = {The COVID Tracking Project},
+    title   = {Data FAQ},
+    url     = {https://covidtracking.com/about-data/faq#why-have-you-s
